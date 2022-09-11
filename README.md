@@ -39,7 +39,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Sidharth H.](https://www.tenocijam.in)
+- Website - [Sidharth H.](https://www.sidharthh.in)
 - Frontend Mentor - [@tenocijam](https://www.frontendmentor.io/profile/tenocijam)
 - Twitter - [@tenocijam](https://www.twitter.com/tenocijam)
 - Instagram - [@tenocijam](https://www.instagram.com/tenocijam)
